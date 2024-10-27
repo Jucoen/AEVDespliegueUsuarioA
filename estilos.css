@@ -1,0 +1,26 @@
+body {
+    background-color: #ADD8E6;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 300px; /* Ajusta el ancho a 300 píxeles */
+    height: auto; /* Mantiene la relación de aspecto */
+}
+
+.btn {
+    display: inline-block; /* Para aplicar márgenes */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    margin-top: 20px; /* Espaciado superior */
+    background-color: #FFCC80; /* Color de fondo personalizado */
+    color: #333; /* Color del texto (oscuro para contraste) */
+    font-size: 18px; /* Tamaño de fuente */
+    text-decoration: none; /* Sin subrayado */
+    border-radius: 5px; /* Bordes redondeados */
+    transition: background-color 0.3s; /* Transición suave para el color de fondo */
+}
+
+.btn:hover {
+    background-color: #FFB74D; /* Color de fondo al pasar el ratón (un tono más oscuro) */
+}
