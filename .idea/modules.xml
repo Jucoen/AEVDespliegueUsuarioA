@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Despliegue-UsuarioA.iml" filepath="$PROJECT_DIR$/.idea/Despliegue-UsuarioA.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Despliegue-UsuarioB.iml" filepath="$PROJECT_DIR$/.idea/Despliegue-UsuarioB.iml" />
+>>>>>>> 93297b4171e1228b76299298dd8d43b58bb0097c
     </modules>
   </component>
 </project>
